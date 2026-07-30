@@ -1,0 +1,45 @@
+<h3 style="color: #2c3e50; margin-top: 2rem; margin-bottom: 1rem;">Top Beaches</h3>
+<div class="gallery">
+    <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop" alt="Maldives Beach">
+        <div class="info">
+            <h4>Maldives</h4>
+            <p>Tropical paradise with turquoise waters</p>
+        </div>
+    </div>
+    <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=300&fit=crop" alt="Maldives Luxury">
+        <div class="info">
+            <h4>Maldives - Luxury Resort</h4>
+            <p>Overwater bungalows and pristine beaches</p>
+        </div>
+    </div>
+    <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=300&fit=crop" alt="Bali Beach">
+        <div class="info">
+            <h4>Bali, Indonesia</h4>
+            <p>Golden sands and vibrant sunsets</p>
+        </div>
+    </div>
+    <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=300&fit=crop" alt="Bali Aerial">
+        <div class="info">
+            <h4>Bali - Aerial View</h4>
+            <p>Stunning coastline from above</p>
+        </div>
+    </div>
+    <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=300&fit=crop" alt="Santorini">
+        <div class="info">
+            <h4>Santorini</h4>
+            <p>White-washed cliffs and blue domes</p>
+        </div>
+    </div>
+    <div class="gallery-item">
+        <img src="https://images.unsplash.com/photo-1542401886-65d27afda266?w=400&h=300&fit=crop" alt="Santorini Sunset">
+        <div class="info">
+            <h4>Santorini - Sunset</h4>
+            <p>Magical golden hour views</p>
+        </div>
+    </div>
+</div>
